@@ -1,4 +1,4 @@
-# **Virus Escape**  
+# Virus Escape
 
 
 ウイルスを避けて生き延びろ！！
